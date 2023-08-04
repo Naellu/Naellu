@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Naellu/Naellu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## Web Backend Developer
+### Web Backend Developer
 - java, spring
 
 
-## Interest
+### Interest
 - SQL
