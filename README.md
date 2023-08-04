@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 
 ### Interest
 - SQL
+
+
+<br>
+
+
+<div align="center">
+   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/Naellu/)](https://github.com/Naellu/)
+</div>
